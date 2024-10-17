@@ -351,5 +351,6 @@ https://owasp.org/Top10/
    
 ![image](https://github.com/user-attachments/assets/ab79ee94-baf5-4954-adfd-fb1240f2c572)
 
-![image](https://github.com/user-attachments/assets/dbc06e8a-5836-4a9e-b805-cafe94e01726)
+![image](https://github.com/user-attachments/assets/59db4ab6-30c1-4be0-9ff6-1c761a95afaa)
+
 

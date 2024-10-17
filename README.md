@@ -24,7 +24,7 @@
 7.	Резервное копирование: BackupService, шифрование.
 8.	Защита от атак: reCAPTCHA, Rate Limiting, Cloudflare.
 
-![alt text](https://github.com/yulterra/archsecurity/blob/[branch]/Слайд1.JPG?raw=true)
+![alt text](https://github.com/yulterra/archsecurity/blob/main/Слайд1.JPG)
 
 ### **Алгоритм работы программы:**
 **1.	Аутентификация и регистрация:**
